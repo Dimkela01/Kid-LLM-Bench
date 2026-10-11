@@ -1,0 +1,4 @@
+model_key,repo,filename,file_size_mb,load_time_s,idle_rss_mb,peak_rss_mb,idle_private_mb,peak_private_mb,cold_ttft_ms,uncached_ttft_ms_median,llama_cpp_version,threads,n_ctx
+qwen3-0.6b,unsloth/Qwen3-0.6B-GGUF,Qwen3-0.6B-Q4_K_M.gguf,378,1.88,666,664,738,741,2435,1765,"version: 0.6.0-dev (build 11429, commit d81235049) built with Clang 20.1.8 for Windows x86_64",4,2048
+gemma3-1b,unsloth/gemma-3-1b-it-GGUF,gemma-3-1b-it-Q4_K_M.gguf,769,2.63,859,910,959,982,4289,4177,"version: 0.6.0-dev (build 11429, commit d81235049) built with Clang 20.1.8 for Windows x86_64",4,2048
+qwen3-1.7b,unsloth/Qwen3-1.7B-GGUF,Qwen3-1.7B-Q4_K_M.gguf,1056,3.18,1298,1165,1445,1450,5177,4393,"version: 0.6.0-dev (build 11429, commit d81235049) built with Clang 20.1.8 for Windows x86_64",4,2048

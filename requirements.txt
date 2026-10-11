@@ -1,0 +1,6 @@
+httpx
+psutil
+pyyaml
+pandas
+huggingface_hub
+lingua-language-detector
